@@ -1,0 +1,16 @@
+class vehicle :
+    def vehicle(self):
+        print("brand:","suzuki")
+
+class car(vehicle):
+    def car(self):
+        print("model:","maruthi")
+
+class sportsCar(car):
+    def sportsCar(self):
+        print("speed:","180 km/h")
+        
+c=sportsCar()
+c.vehicle()
+c.car()
+c.sportsCar()
