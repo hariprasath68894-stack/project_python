@@ -1,0 +1,17 @@
+a=30;
+b=20;
+print(a+b);
+print(a-b);
+print(a*b);
+print(a/b);
+print(a>b);
+print(a<b);
+print(a//b);
+print(a**b);
+print(a==b);
+print(a<=b);
+print(a>=b);
+print(a!=b);
+print(a>30 and b<20);
+print(a>30 or b<20);
+print(not(a>b));

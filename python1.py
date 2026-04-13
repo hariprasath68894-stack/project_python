@@ -1,0 +1,12 @@
+Name="hariprasath";
+Age=22;
+City="vellore";
+Rollnumber=192314023;
+phonenumber=9566720023;
+Hobby="cricket";
+print(Name);
+print(Age);
+print(City);
+print(Rollnumber);
+print(phonenumber);
+Print(Hobby);
